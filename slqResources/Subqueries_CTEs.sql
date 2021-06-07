@@ -53,7 +53,7 @@ SELECT
 FROM league AS l
 -- Joining the CTE to the league table
 LEFT JOIN match_list ON l.id = match_list.country_id
-GROUP BY l.name ;
+GROUP BY l.name;
         
         
 
