@@ -1,5 +1,5 @@
 ### Create a new table with three columns
-CREATE TABLE t(
+CREATE TABLE t (
     id INT PRIMARY KEY,
     name VARCHAR NOT NULL,
     price INT DEFAULT 0
