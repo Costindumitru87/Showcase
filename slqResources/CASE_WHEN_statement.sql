@@ -1,4 +1,4 @@
-### Basic CASE statement example.
+### Basic CASE statement example
 -- Identify the home team as Bayern Munich, Schalke 04, or neither
 SELECT 
 	CASE WHEN hometeam_id = 10189 THEN 'FC Schalke 04'
