@@ -6,7 +6,6 @@ SELECT
          ELSE 'Other' END AS home_team,
 	COUNT(id) AS total_matches
 FROM matches_germany
--- Group by the CASE statement alias
 GROUP BY home_team;
 
 
@@ -22,7 +21,7 @@ WHERE
 ### Calculating percent with CASE and AVG example
 SELECT 
 	c.name AS country,
-    -- Round the percentage of tied games to 2 decimal points
+    -- Rounding the percentage of tied games to 2 decimal points
 	ROUND(AVG(CASE WHEN m.season='2013/2014' AND m.home_goal = m.away_goal THEN 1
 			 WHEN m.season='2013/2014' AND m.home_goal != m.away_goal THEN 0
 			 END),2) AS pct_ties_2013_2014,
