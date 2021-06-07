@@ -30,4 +30,20 @@ FROM t1 A
 INNER JOIN t2 B ON condition;
 
 
+### Combine rows from two queries
+SELECT c1, c2
+FROM t1
+UNION 
+SELECT c1, c2
+FROM t2;
+
+
+#Return the intersection of two queries
+SELECT c1, c2
+FROM t1
+INTERSECT
+SELECT c1, c2
+FROM t2;
+
+
 
