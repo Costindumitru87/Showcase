@@ -43,8 +43,8 @@ WHERE (home_goal + away_goal) >
 ### Declaring a CTE example
 WITH match_list AS (
     SELECT 
-  		country_id, 
-  		id
+  	country_id, 
+  	id
     FROM match
     WHERE (home_goal + away_goal) >= 10)
 SELECT
