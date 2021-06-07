@@ -1,4 +1,4 @@
-### Query rows using pattern matching (a% , %a, %a%, _a%, a_%, a__%, a%z )
+### Query rows using pattern matching (a% , %a, %a%, _a%, a_%, a__%, a%z)
 SELECT c1, c2 
 FROM mytable
 WHERE c1 [NOT] LIKE a%;
