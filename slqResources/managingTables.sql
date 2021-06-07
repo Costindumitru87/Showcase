@@ -6,6 +6,11 @@ CREATE TABLE t (
 );
 
 
+#Create table backup
+create or replace table t_backup as 
+select * from t
+
+
 ### Delete the table from the database
 DROP TABLE t ;
 
