@@ -1,5 +1,6 @@
 ### Basic select
-SELECT * FROM  mytable;
+SELECT * 
+FROM  mytable;
 
 
 ### Select columns
