@@ -40,8 +40,10 @@ returns struct <
 >  
 
 language js as """ return JSON.parse(data);""";
+```
 
-
+# Create view
+```sql
 create or replace view `test.NBA_transform.teams_raw` as
 select `test.NBA_transform.fn_teams`(concat('''{"data":''',data,'''}''')).*  
 from `test.NBA_import.teams_import`;
