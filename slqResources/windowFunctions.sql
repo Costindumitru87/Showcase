@@ -18,7 +18,7 @@ SELECT
 	away_goal,
 	CASE WHEN hometeam_id = 8673 THEN 'home' 
          ELSE 'away' END AS warsaw_location,
-	-- Calculate average goals partitioned by season and month
+-- Calculating average goals partitioned by season and month
     AVG(home_goal) OVER(PARTITION BY season, 
          	EXTRACT(month FROM date)) AS season_mo_home,
     AVG(away_goal) OVER(PARTITION BY season, 
