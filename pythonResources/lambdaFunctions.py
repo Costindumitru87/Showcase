@@ -4,7 +4,6 @@ result = echo_word("hey", 5)
 print(result)
 
 
-
 ### Filter() in a lambda function
 fellowship = ['frodo', 'samwise', 'merry', 'pippin', 'aragorn', 'boromir', 'legolas', 'gimli', 'gandalf']
 result = filter(lambda member: len(member) > 6, fellowship)
