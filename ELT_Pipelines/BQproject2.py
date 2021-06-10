@@ -29,7 +29,7 @@ response_list = respone_json_dict.get("api").get(entity)
 response_json = json.dumps(response_list)
     
 
-  bq_client = bigquery.Client("test-costin")
+bq_client = bigquery.Client("test-costin")
 table_name = f"test-costin.NBA_import_test.{entity}"                     
 table_to_insert = bq_client.get_table(table_name)
 current_timestamp = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S.%f")
