@@ -47,4 +47,4 @@ def get_all_flights_info()->str:
 get_all_flights_info()      
 
  #used Windows CommandPrompt and GCP account credentials to make the connection between them
- .set GOOGLE_APPLICATION_CREDENTIALS=c:/Users/Costin/Desktop/VSC/nba_project/SA_Costin_dev.json
+ set GOOGLE_APPLICATION_CREDENTIALS=c:/Users/Costin/Desktop/VSC/nba_project/SA_Costin_dev.json
