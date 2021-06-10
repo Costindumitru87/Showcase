@@ -40,12 +40,12 @@ print(list(result))
 
 ### Remove Duplicates From a List
 list1 = [1,2,3,3,4,'John', 'Ana', 'Mark', 'John']
-#Method 1
+    #Method 1
 def remove_duplicate(list_value):
     return list(set(list_value))
 print(remove_duplicate(list1))
 
-#Method 2
+    #Method 2
 result = []
 [result.append(x) for x in list1 if x not in result]
 print(result)
