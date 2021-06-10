@@ -6,7 +6,6 @@ shout()
 
 
 ### Function with multiple parameters
-# 
 def shout(word1, word2):
     shout1 = word1 + "!!!"
     shout2 = word2 + "!!!"
