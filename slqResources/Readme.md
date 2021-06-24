@@ -3,5 +3,6 @@
 
 
 ### USEFUL LINKS:
-* [SQL Tutorial](https://www.w3schools.com/sql/)
-* 
+* [SQL tutorial](https://www.w3schools.com/sql/)
+* [Advanced queries](https://towardsdatascience.com/advanced-queries-with-sql-that-will-save-your-time-48a45b7ca2e3)
+* [Relational databases](https://learn.datacamp.com/courses/introduction-to-relational-databases-in-sql)
