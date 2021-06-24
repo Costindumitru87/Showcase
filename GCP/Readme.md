@@ -1,22 +1,21 @@
-### what to find here 
-usefull resources for infrastructure references:
-  IAM configuration
-  BQ provisioning
-  local environment setup:
-        setup local GCP local account via SDK (Google software developer kit)
-        local authentification
-        project library dependencies
-  project folder structure
+### **WHAT TO FIND HERE:**
+**useful resources for infrastructure references:**
+  1. IAM configuration
+  2. BQ provisioning
+  3. Local environment setup:
+        * setup local GCP local account via SDK (Google software developer kit)
+        * local authentification
+        * project library dependencies
+  4. Project folder structure
         
         
 
-### usefull links 
-linux cheat sheat commands
-SDK instalation link  https://cloud.google.com/sdk/docs/install
+### useful links 
+Linux cheat sheat commands
+SDK installation link  https://cloud.google.com/sdk/docs/install
 SDK documentation https://cloud.google.com/sdk/gcloud/reference/config/set
 python install link
-IAM best practicies link
+IAM best practices link
 BQ setup(project and dataset)
 link for libraries (pip freeze ) https://pypi.org/project/google-cloud-bigquery/
-link (best practicies in GIT project folder structre)
-
+link (best practices in GIT project folder structure)
