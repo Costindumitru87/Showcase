@@ -1,5 +1,5 @@
 ### **WHAT TO FIND HERE:**
-* Created as a Cheat sheet with some of the Linux commands I am using 
+* Created as a cheat sheet with some of the Linux commands I am using 
 
 
 ### **USEFUL LINK:** 
