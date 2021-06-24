@@ -1,1 +1,4 @@
-## used to showcase the level of understanding of my SQL knowledge
+## What to find here 
+
+
+### Usefull links
