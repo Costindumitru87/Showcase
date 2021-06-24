@@ -16,6 +16,6 @@ SDK instalation link
 python install link
 IAM best practicies link
 BQ setup(project and dataset)
-link for libraries (pip freeze )
+link for libraries (pip freeze ) https://pypi.org/project/google-cloud-bigquery/
 link (best practicies in GIT project folder structre)
 
