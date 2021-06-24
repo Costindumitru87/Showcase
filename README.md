@@ -1,4 +1,4 @@
-## **ABOUT ME:** ##
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1") ## **ABOUT ME:** ##
 I am a **dedicated, motivated, and eager to grow learner** who discovered the power of data & analytics.
 My main goal is to **further expand my knowledge** within the data domain as a Data Engineer.
 
