@@ -8,7 +8,7 @@
         * project library dependencies
   4. Project folder structure        
        
-### **USEFUL LINKS** 
+### **USEFUL LINKS:** 
 *[Linux cheat sheat commands](https://www.guru99.com/linux-commands-cheat-sheet.html)
 *[SDK installation](https://cloud.google.com/sdk/docs/install)
 *[SDK documentation](https://cloud.google.com/sdk/gcloud/reference/config/set)
