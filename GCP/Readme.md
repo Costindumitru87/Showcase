@@ -12,7 +12,8 @@ usefull resources for infrastructure references:
 
 ### usefull links 
 linux cheat sheat commands
-SDK instalation link
+SDK instalation link  https://cloud.google.com/sdk/docs/install
+SDK documentation https://cloud.google.com/sdk/gcloud/reference/config/set
 python install link
 IAM best practicies link
 BQ setup(project and dataset)
