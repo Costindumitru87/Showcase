@@ -12,4 +12,4 @@ Project created to **showcase my most used resources** in tearms of Data Enginee
 * [*GCP*](https://github.com/Costindumitru87/Showcase/tree/main/GCP)
 * [*ELT_PIPELINES*](https://github.com/Costindumitru87/Showcase/tree/main/ELT_Pipelines)
 
-This repository can be used as a cheat sheet, the examples can be used as-is, and explanations are provided in code comments and readme.
+*This repository can be used as a cheat sheet, the examples can be used as-is, and explanations are provided in code comments and readme.*
