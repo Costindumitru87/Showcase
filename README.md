@@ -1,6 +1,6 @@
-###about me###
+### about me ###
 
-###About this project###
+### About this project ###
 Project created to showcase my most used resources in tearms of Data Engineering. This will include:
 hyperlink PY
 ...
