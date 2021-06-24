@@ -4,7 +4,7 @@ My main goal is to **further expand my knowledge** within the data domain as a D
 
 
 ### ABOUT THIS PROJECT: ###
-Project created to *showcase my most used resources* in tearms of Data Engineering. This will include:
+Project created to **showcase my most used resources** in tearms of Data Engineering. This will include:
 * [*Python*](https://github.com/Costindumitru87/Showcase/tree/main/pythonResources) 
 * [*SQL*](https://github.com/Costindumitru87/Showcase/tree/main/slqResources)
 * [*LINUX*](https://github.com/Costindumitru87/Showcase/tree/main/LINUX)
