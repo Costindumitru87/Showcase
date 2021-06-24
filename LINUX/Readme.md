@@ -1,7 +1,7 @@
 ### **WHAT TO FIND HERE:**
-* Created as a cheat sheet with some of the Linux commands I am using 
+* Useful resources, created as a cheat sheet, with some of the Linux commands I am using 
 
 
 ### **USEFUL LINK:** 
-* [Linux cheat sheat commands](https://www.guru99.com/linux-commands-cheat-sheet.html)
+* [Linux cheat sheet commands](https://www.guru99.com/linux-commands-cheat-sheet.html)
 
