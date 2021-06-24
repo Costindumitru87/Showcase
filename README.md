@@ -1,5 +1,5 @@
-### **ABOUT ME:** ###
-I am a **dedicated, motivated and eager to grow learner** who discovered the power of data & analytics.
+## **ABOUT ME:** ##
+I am a **dedicated, motivated, and eager to grow learner** who discovered the power of data & analytics.
 My main goal is to **further expand my knowledge** within the data domain as a Data Engineer.
 
 
@@ -11,4 +11,4 @@ Project created to **showcase my most used resources** in tearms of Data Enginee
 * [*GCP*](https://github.com/Costindumitru87/Showcase/tree/main/GCP)
 * [*ELT_PIPELINES*](https://github.com/Costindumitru87/Showcase/tree/main/ELT_Pipelines)
 
-This repository can be used a as a cheat sheet, the examples can be used as is, and explanations are provided in code comments and readme.
+This repository can be used as a cheat sheet, the examples can be used as-is, and explanations are provided in code comments and readme.
